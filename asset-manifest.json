@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/https//Admin32R2.github.io/my-app/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/https//Admin32R2.github.io/my-app/static/js/main.7881897d.chunk.js",
+    "main.js.map": "/https//Admin32R2.github.io/my-app/static/js/main.7881897d.chunk.js.map",
+    "runtime-main.js": "/https//Admin32R2.github.io/my-app/static/js/runtime-main.1b6ac4b6.js",
+    "runtime-main.js.map": "/https//Admin32R2.github.io/my-app/static/js/runtime-main.1b6ac4b6.js.map",
+    "static/js/2.c798ea6f.chunk.js": "/https//Admin32R2.github.io/my-app/static/js/2.c798ea6f.chunk.js",
+    "static/js/2.c798ea6f.chunk.js.map": "/https//Admin32R2.github.io/my-app/static/js/2.c798ea6f.chunk.js.map",
+    "static/js/3.526b841a.chunk.js": "/https//Admin32R2.github.io/my-app/static/js/3.526b841a.chunk.js",
+    "static/js/3.526b841a.chunk.js.map": "/https//Admin32R2.github.io/my-app/static/js/3.526b841a.chunk.js.map",
+    "index.html": "/https//Admin32R2.github.io/my-app/index.html",
+    "precache-manifest.c53aab2bc4508f1fd95e659807ac3110.js": "/https//Admin32R2.github.io/my-app/precache-manifest.c53aab2bc4508f1fd95e659807ac3110.js",
+    "service-worker.js": "/https//Admin32R2.github.io/my-app/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/https//Admin32R2.github.io/my-app/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.c798ea6f.chunk.js.LICENSE.txt": "/https//Admin32R2.github.io/my-app/static/js/2.c798ea6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b6ac4b6.js",
+    "static/js/2.c798ea6f.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.7881897d.chunk.js"
+  ]
+}
